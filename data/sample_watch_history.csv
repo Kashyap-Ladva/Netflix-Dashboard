@@ -1,0 +1,16 @@
+user_id,country,title,type,genres,watch_start,watch_end,duration_minutes,season,episode
+1,India,Stranger Things,Show,Drama|Sci-Fi,2024-07-10 21:15:00,2024-07-10 22:05:00,50,1,1
+2,USA,The Crown,Show,Drama|History,2024-07-11 20:00:00,2024-07-11 21:30:00,90,3,2
+1,India,Money Heist,Show,Crime|Thriller,2024-07-12 23:10:00,2024-07-13 00:00:00,50,4,5
+3,UK,Black Mirror,Show,Sci-Fi|Drama,2024-07-08 02:00:00,2024-07-08 02:45:00,45,1,1
+4,India,3 Idiots,Movie,Comedy|Drama,2024-07-03 18:00:00,2024-07-03 20:30:00,150,,
+2,USA,Dark,Show,Sci-Fi|Thriller,2024-07-15 22:30:00,2024-07-15 23:20:00,50,1,1
+5,Canada,The Witcher,Show,Action|Fantasy,2024-07-05 19:30:00,2024-07-05 20:40:00,70,2,3
+1,India,The Queen's Gambit,Show,Drama|Sport,2024-06-30 21:00:00,2024-06-30 22:00:00,60,1,1
+6,Australia,Peaky Blinders,Show,Crime|Drama,2024-07-09 00:30:00,2024-07-09 01:20:00,50,5,1
+7,India,Extraction,Movie,Action|Thriller,2024-07-11 23:45:00,2024-07-12 01:00:00,75,,
+8,India,Sacred Games,Show,Crime|Thriller,2024-07-01 22:10:00,2024-07-01 23:10:00,60,1,1
+9,USA,Friends,Show,Comedy|Romance,2024-06-28 18:30:00,2024-06-28 19:00:00,30,5,15
+10,India,The White Tiger,Movie,Drama,2024-07-02 20:00:00,2024-07-02 21:50:00,110,,
+2,USA,Stranger Things,Show,Drama|Sci-Fi,2024-07-20 21:10:00,2024-07-20 22:00:00,50,4,3
+3,UK,The Crown,Show,Drama|History,2024-07-21 19:00:00,2024-07-21 20:30:00,90,4,1
