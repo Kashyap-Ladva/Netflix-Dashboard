@@ -22,8 +22,7 @@ Add your CSV to `data/watch_history.csv`. See `data/sample_watch_history.csv` fo
 ![screenshot1](assets/screenshot1.png)
 
 ## Deployment
-- Deployed on Streamlit Cloud: [demo link]
-
+- Deployed on Streamlit Cloud:https://netflix-dashboard-egrze9f9evsfym52evdcw7.streamlit.app/
 ## License
 MIT
 
