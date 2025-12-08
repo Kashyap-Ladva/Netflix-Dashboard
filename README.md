@@ -7,7 +7,7 @@ Interactive Streamlit dashboard that shows:
 - Filters: Genre → Year → Country
 
 ## Tech stack
-Python, Pandas, Matplotlib, Seaborn, Streamlit, GitHub, Streamlit Cloud / Render
+Python, Pandas, Matplotlib, Seaborn, Streamlit, GitHub, Streamlit Cloud 
 
 ## Quick start
 1. Clone repo
@@ -23,8 +23,7 @@ Add your CSV to `data/watch_history.csv`. See `data/sample_watch_history.csv` fo
 
 ## Deployment
 - Deployed on Streamlit Cloud: [demo link]
-- Or Render: [demo link]
 
 ## License
 MIT
-explain this to me and also guide me how to put readme ?
+
