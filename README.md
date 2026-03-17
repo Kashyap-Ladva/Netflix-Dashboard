@@ -79,7 +79,3 @@ See `data/sample_watch_history.csv` for the required schema.
 **Kashyap Ladva**  
 CE Student @ GEC Gandhinagar | Data Science & ML  
 [GitHub](https://github.com/Kashyap-Ladva)
-
-**Kashyap Ladva**  
-CE Student @ GEC Gandhinagar | Data Science & ML  
-[GitHub](https://github.com/Kashyap-Ladva)
